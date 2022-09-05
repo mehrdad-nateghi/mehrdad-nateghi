@@ -1,7 +1,39 @@
- Hey! Nice to see you.
- 
-- 👋 Hi, I’m @mehrdad-nateghi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning React, Redux, and TypeScript.
-- 💞️ I’m looking to collaborate on Ecommerce Projects.
-- 📫 How to reach me ...
+# Hi everyone :wave:
+
+I'm a senior Full Stack Developer.
+
+## 🛠️ My Development Stacks are LAMP, TALL, and MEARN.
+
+### FRONTEND
+- HTML
+- CSS
+- SCSS
+- JAVASCRIPT
+- TYPESCRIPT
+- REACT
+- REDUX
+- VUE
+- ALPINEJS
+- BOOTSTRAP
+- TAILWIND
+
+### BACKEND
+- PHP
+- LARAVEL
+- LIVEWIRE
+- NODE
+- EXPRESS
+
+### MOBILE
+- REACT NATIVE
+
+### DATABASE
+- SQL
+- MYSQL
+- MONGODB
+- REDIS
+
+### VERSION CONTROLS
+- GIT
+- GITHUB
+- GITLAB
