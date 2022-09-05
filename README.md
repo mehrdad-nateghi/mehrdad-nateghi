@@ -2,7 +2,7 @@
 
 I'm a senior Full Stack Developer.
 
-## 🛠️ My Development Stacks are LAMP, TALL, and MEARN.
+## 🛠️ My Development Stacks are LAMP, TALL, and MERN.
 
 ### FRONTEND
 - HTML
