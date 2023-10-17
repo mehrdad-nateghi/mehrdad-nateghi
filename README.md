@@ -2,7 +2,7 @@
 
 I'm a senior Full Stack Developer.
 
-## 🛠️ My Development Stacks are LAMP, TALL, and MERN.
+## 🛠️ My Development Stacks are LAMP and TALL.
 
 ### FRONTEND
 - HTML
@@ -10,8 +10,6 @@ I'm a senior Full Stack Developer.
 - SCSS
 - JAVASCRIPT
 - TYPESCRIPT
-- REACT
-- REDUX
 - VUE
 - ALPINEJS
 - BOOTSTRAP
@@ -21,11 +19,9 @@ I'm a senior Full Stack Developer.
 - PHP
 - LARAVEL
 - LIVEWIRE
-- NODE
-- EXPRESS
 
 ### MOBILE
-- REACT NATIVE
+- FLUTTER
 
 ### DATABASE
 - SQL
